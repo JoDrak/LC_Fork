@@ -5,3 +5,4 @@ Proceeds to use extern on variables even though not being a keyword covered by a
 
 ## Chapter 5
 Again, using extern, but now on functions, yet still not something covered in any of the resources provided til this chapter.
+In the same case, the keyword static being used.
